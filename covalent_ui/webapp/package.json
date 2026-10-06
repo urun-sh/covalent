@@ -85,6 +85,7 @@
     "path-to-regexp": "0.1.13",
     "prismjs": "1.30.0",
     "qs": "6.16.0",
-    "underscore": "1.13.8"
+    "underscore": "1.13.8",
+    "postcss-selector-parser": "7.1.6"
   }
 }
