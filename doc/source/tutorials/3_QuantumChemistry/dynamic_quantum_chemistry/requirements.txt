@@ -1,2 +1,2 @@
 covalent
-pymatgen[relaxation]==2023.9.25
+pymatgen[relaxation]==2024.2.20
